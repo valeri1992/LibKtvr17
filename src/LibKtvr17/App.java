@@ -2,7 +2,7 @@
  * Class run application in do loop.
  * App worked while var repeat="r"
  */
-package libproptvr16;
+package libktvr17;
 
 import entity.Book;
 import entity.History;
